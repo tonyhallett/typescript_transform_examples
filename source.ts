@@ -1,0 +1,1 @@
+export function typescriptFunction(arg:string){}
